@@ -21,12 +21,5 @@ This Python script conducts binary classification using Logistic Regression on p
 - Uses Logistic Regression for modeling
 - Assesses model performance with F1 Score and Accuracy metrics
 
-## Required Libraries
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- scikit-learn
-
 ## Contributing
 Contributions are welcome! Fork the repository, make changes, and submit pull requests.
